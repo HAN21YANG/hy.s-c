@@ -7,21 +7,13 @@
             "url": "http://meowtv.cn/tv",
             "name": "🚀喵影视TV"
         },
-        {
-            "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
-            "name": "🍎TVbox接口(378)"
-        },
 		{
-            "url": "https://jihulab.com/owen2000wy/owentv/-/raw/main/OwenTV.json",
-            "name": "🚀OwenTV"
+            "url": "https://www.huichunniao.cn/vip/4k/t.json",
+            "name": "🚀4k影音天堂"
         },
 		{
             "url": "https://raw.gitmirror.com/159ecn/vip/main/4k/t.json",
             "name": "🚀4k视界"
-        },
-		{
-            "url": "http://tv.nxog.top/api.php?mz=xb&id=12&b=欧歌",
-            "name": "🚀直播"
         }
 		
     ]
