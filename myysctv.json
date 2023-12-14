@@ -1,24 +1,15 @@
 {"urls": [
-        {
-            "url": "https://www.huichunniao.cn/xh/t.json",
-            "name": "🏡小荷线路"
+         {
+            "url": "https://gitee.com/h-yang20/hy.s-c/raw/master/hy.json",
+            "name": "🏡小洋子影院"
         },
         {
-            "url": "https://gitee.com/h-yang20/hy.s-c/raw/master/hy.json",
-            "name": "小洋子🏡影院"
+            "url": "https://www.huichunniao.cn/xh/t.json",
+            "name": "🌸小荷线路"
         },
         {
             "url": "http://meowtv.cn/tv",
             "name": "🚀喵影视TV"
-        },
-		{
-            "url": "https://www.huichunniao.cn/vip/4k/t.json",
-            "name": "🌸4k影音天堂"
-        },
-		{
-            "url": "https://raw.gitmirror.com/159ecn/vip/main/4k/t.json",
-            "name": "🚀4k视界"
-        }
-		
+        }	
     ]
 }
