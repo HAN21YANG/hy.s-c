@@ -23,7 +23,7 @@
         },
     {
         "key": "49zy",
-        "name": "🌸四九资源",
+        "name": "🌸九五资源",
         "type": 1,
         "api": "https://49zyw.com/api.php/provide/vod/?ac=list",
         "searchable": 1,
@@ -54,13 +54,6 @@
         },
 
 //--------------国产剧资源------------------------------------------------------------
-     {
-        "key":"影探4K",
-        "name":"🎦影探┃4K",
-        "type":3,"api":"csp_AppYsV2",
-        "searchable":1,"quickSearch":1,
-        "filterable":1,"ext":"http://vipcms.lyyytv.cn/api.php/app/"
-        },
     {
         "key":"农民影视",
         "name":"🎦农民┃秒播",
@@ -68,16 +61,6 @@
         "searchable":1,"quickSearch":1,
         "filterable":1,
         "ext":"./lib/nongmin.json"
-        },
-    {
-        "key": "益达影视",
-        "name": "🎦美益达┃秒播",
-        "type": 3,
-        "api": "csp_AppYsV2",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": "https://myd666.tv/lvdou_api.php/v1.vod"
         },
     {
         "key": "骑骑影院",
@@ -100,18 +83,15 @@
         "filterable": 1,
         "ext": "./lib2/侦探.js"
         },
+    {
+        "key":"爱迪影视",
+        "name":"🎦爱迪影视",
+        "type": 3,"api": "csp_AppYsV2",
+        "ext": "https://api123.adys.app/xgapp.php/v3/"
+        },
 
 //--------------国外剧资源------------------------------------------------------------
-    {
-        "key": "csp_MeiJu69",
-        "name": "🗽┃六九┃美剧",
-        "type": 3,
-        "api": "csp_AppYsV2",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": "https://www.69mj.com/xgapp.php/v2/"
-        }
+
 
         
   ]
