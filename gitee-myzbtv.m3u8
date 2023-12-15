@@ -172,9 +172,6 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001232/index.m3u8
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001460/index.m3u8
 #EXTINF:-1 group-title="iPV6·动画",海南少儿
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?
-
-#EXTINF:-1 group-title="iPV6·动画",广州少儿
-http://nas.jdshipin.com:8801/iptv.php?id=gzse
 #EXTINF:-1 tvg-name="黑莓动画" group-title="iPV6·动画",黑莓动画
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 #EXTINF:-1 tvg-name="宝贝动画" group-title="iPV6·动画",宝贝动画
