@@ -7,28 +7,16 @@ http://vvlive.eztv.vip/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa
 http://vvlive.eztv.vip/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
 #EXTINF:-1 group-title="iPV4·频道",CCTV-1 综合
 https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
-#EXTINF:-1 group-title="iPV4·频道",CCTV-2 财经
-https://epg.pw/stream/306d8b0a118db25a34c0944629bf8f6a901f85ab475bb12abcc12c1e65f27287.ctv
-#EXTINF:-1 group-title="iPV4·频道",CCTV-3 综艺
-https://epg.pw/stream/a20301f125e22b5dcb5ba098dee9fb4d0404430807d77262602a3525e8b7ce4c.ctv
 #EXTINF:-1 group-title="iPV4·频道",CCTV-4 中文国际
 https://epg.pw/stream/27dd2885c32ca621fd9b8290cccb8706db0bbdf5131dde158432969c8b4582bf.ctv
 #EXTINF:-1 group-title="iPV4·频道",CCTV-6 电影
 http://mobilelive-pull.ysp.cctv.cn/ysp/2013693901_fhd.m3u8
-#EXTINF:-1 group-title="iPV4·频道",CCTV-7 国防军事
-https://epg.pw/stream/c58244953378c8167c4a2cc2078a80ce3176d165d86e0674b75d7eb542ed8a20.ctv
-#EXTINF:-1 group-title="iPV4·频道",CCTV-8 电视剧
-https://epg.pw/stream/913869ea7d7a306dba8e2f2aa14aaa3ca03cb050d7bb1ab40cf6693f04a3ba2a.ctv
 #EXTINF:-1 group-title="iPV4·频道",CCTV-9 记录
 https://epg.pw/stream/3db3e563b4920f7f1674c8a0bfc318f898c20680c4c64cafd1b2dc199f670b14.ctv
 #EXTINF:-1 group-title="iPV4·频道",CCTV-10 科技
 https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8
 #EXTINF:-1 group-title="iPV4·频道",CCTV-13 新闻
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-#EXTINF:-1 group-title="iPV4·频道",CCTV-16 奥林匹克
-https://epg.pw/stream/a40cab6b916dec5f03cb8d888d13baa8dfc371a45b5e4a51f557ae266602a9c1.ctv
-#EXTINF:-1 group-title="iPV4·频道",CCTV-17 农业农村
-https://epg.pw/stream/b3997477d0742021b4c904855f6e8be024b3980340d5f382ec498027c50cde81.ctv
 
 #--------iPV4·港澳台----------------------------
 #EXTINF:-1 group-title="iPV4·港澳台",環球電視台
@@ -247,18 +235,6 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001470/index.m3u8
 #EXTINF:-1 group-title="iPV6·卫视",厦门卫视
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000193/index.m3u8?fmmv6
 
-#--------iPV6·地区------------------------
-#EXTINF:-1 tvg-name="上海东方影视" group-title="iPV6·地区",东方影视
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001016/index.m3u8?love=freedom
-#EXTINF:-1 tvg-name="上海外语频道" group-title="iPV6·地区",上海外语频道
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001128/index.m3u8?love=freedom
-#EXTINF:-1 group-title="iPV6·地区",北京纪实科教
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="iPV6·地区",金鹰纪实
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001230/index.m3u8
-#EXTINF:-1 group-title="iPV6·地区",快乐垂钓
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001235/index.m3u8
-
 #--------iPV6·iHOT----------------------------
 #EXTINF:-1 tvg-name="null" group-title="iPV6·iHOT",iHOT爱科学
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000160630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000160630&livemode=1&stbId=3
@@ -276,3 +252,15 @@ http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000040630/index.
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="null" group-title="iPV6·iHOT",iHOT爱幼教
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000180630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000180630&livemode=1&stbId=3
+
+#--------iPV6·地区------------------------
+#EXTINF:-1 tvg-name="上海东方影视" group-title="iPV6·地区",东方影视
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001016/index.m3u8?love=freedom
+#EXTINF:-1 tvg-name="上海外语频道" group-title="iPV6·地区",上海外语频道
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001128/index.m3u8?love=freedom
+#EXTINF:-1 group-title="iPV6·地区",北京纪实科教
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="iPV6·地区",金鹰纪实
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001230/index.m3u8
+#EXTINF:-1 group-title="iPV6·地区",快乐垂钓
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001235/index.m3u8
