@@ -1,9 +1,17 @@
 {
   "spider": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/abc/Yoursmile.jar;md5;632ADF6446656E28A9F31033F3C2F416",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-  "sites": [
+
+  "lives": [{
+		    "name": "live",
+		    "type": 0,
+		    "url": "./lib/live.txt",
+		    "epg": "http://epg.112114.eu.org/?ch={name}&date={date}",
+                    "logo": "https://epg.112114.xyz/bingimg/logo/{name}.png"
+	    }],
       
 //--------------资源最全面------------------------------------------------
+  "sites": [
     {
         "key": "csp_DouDou",
         "name": "🍎豆瓣┃推荐",
