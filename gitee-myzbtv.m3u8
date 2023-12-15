@@ -16,7 +16,7 @@ https://epg.pw/stream/113f0eb04d33840b7642af563255df49292c8d9c7755bf498df78cb7a3
 #EXTINF:-1 group-title="iPV4·频道",CCTV-9 记录
 https://epg.pw/stream/3db3e563b4920f7f1674c8a0bfc318f898c20680c4c64cafd1b2dc199f670b14.ctv
 #EXTINF:-1 group-title="iPV4·频道",CCTV-10 科技
-https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8
+http://cfss.cc/api/ysp/cctv10.m3u8
 #EXTINF:-1 group-title="iPV4·频道",CCTV-13 新闻
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 #EXTINF:-1 tvg-name="CHC动作电影" group-title="iPV4·频道",精彩影视
