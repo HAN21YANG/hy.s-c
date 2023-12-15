@@ -9,23 +9,13 @@ https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 #EXTINF:-1 group-title="iPV4·频道",CCTV-4 中文国际
 https://epg.pw/stream/27dd2885c32ca621fd9b8290cccb8706db0bbdf5131dde158432969c8b4582bf.ctv
 #EXTINF:-1 group-title="iPV4·频道",CCTV-6 电影
-https://epg.pw/stream/7bbfe5fb8392af3f4ffdc18217c886d0937de05315ed7980dc17d9578d4411ac.m3u8
+https://epg.pw/stream/ea559ca2b60299bc5dda8015b1cec956d6f3a25de78c88f3efa9d2d634829e54.ctv
 #EXTINF:-1 group-title="iPV4·频道",CCTV-8 电视剧
-https://epg.pw/stream/113f0eb04d33840b7642af563255df49292c8d9c7755bf498df78cb7a315f322.m3u8
+https://epg.pw/stream/913869ea7d7a306dba8e2f2aa14aaa3ca03cb050d7bb1ab40cf6693f04a3ba2a.ctv
 #EXTINF:-1 group-title="iPV4·频道",CCTV-9 记录
 https://epg.pw/stream/3db3e563b4920f7f1674c8a0bfc318f898c20680c4c64cafd1b2dc199f670b14.ctv
 #EXTINF:-1 group-title="iPV4·频道",CCTV-13 新闻
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-#EXTINF:-1 tvg-name="CHC动作电影" group-title="iPV4·频道",精彩影视
-https://epg.pw/stream/8dab71378c5bf4b3859fa4bba0fc4af1635cbd815763801c23c64ce7b50ce5d4.m3u8
-#EXTINF:-1 tvg-name="CHC动作电影" group-title="iPV4·频道",黑莓电影
-https://epg.pw/stream/a106bba49a6159d54ee66205038e678acf94d13e34266e678ee7b08ce650766a.m3u8
-#EXTINF:-1 tvg-name="CHC动作电影" group-title="iPV4·频道",CHC动作电影
-https://epg.pw/stream/b8dfd242761b6471da5a06f188500dbb93ff307905c80d3c440b503252b24561.m3u8
-#EXTINF:-1 tvg-name="CHC家庭影院" group-title="iPV4·频道",CHC家庭影院
-https://epg.pw/stream/17e53dd9bb59100cba075de7a4aae8aa7c0c37828b68f9fbe8f85ab07d16e78d.m3u8
-#EXTINF:-1 tvg-name="CHC 高清电影" group-title="iPV4·频道",CHC高清电影
-https://epg.pw/stream/0fc644caf6205b2dd46b84766084d0a90eff010686f75b2fd646bdcf1943883d.m3u8
 
 #--------iPV4·港澳台----------------------------
 #EXTINF:-1 group-title="iPV4·港澳台",環球電視台
