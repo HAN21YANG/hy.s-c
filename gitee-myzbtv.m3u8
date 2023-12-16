@@ -15,7 +15,9 @@ https://epg.pw/stream/913869ea7d7a306dba8e2f2aa14aaa3ca03cb050d7bb1ab40cf6693f04
 #EXTINF:-1 group-title="iPV4·频道",CCTV-9 记录
 https://epg.pw/stream/3db3e563b4920f7f1674c8a0bfc318f898c20680c4c64cafd1b2dc199f670b14.ctv
 #EXTINF:-1 group-title="iPV4·频道",CCTV-13 新闻
+https://t21.cdn2020.com/video/m3u8/2023/03/30/c8a729fa/index.m3u8
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+
 
 #--------iPV4·港澳台----------------------------
 #EXTINF:-1 group-title="iPV4·港澳台",環球電視台
