@@ -4,6 +4,20 @@
 http://vvlive.eztv.vip/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
 #EXTINF:-1 group-title="iPV4·频道",EZTV-2 欧洲华文台
 http://vvlive.eztv.vip/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
+#EXTINF:-1 group-title="iPV4·频道",環球電視台
+http://zb.xzxwhcb.com:9999/hls/world.m3u8
+#EXTINF:-1 group-title="iPV4·频道",凤凰中文台HD
+http://113.117.74.52:8081/hls/37/index.m3u8
+#EXTINF:-1 group-title="iPV4·频道",凤凰资讯台HD
+http://113.117.74.52:8081/hls/36/index.m3u8
+#EXTINF:-1 group-title="iPV4·频道",凤凰香港台HD
+http://113.117.74.52:8081/hls/38/index.m3u8
+#EXTINF:-1 group-title="iPV4·频道",澳门莲花
+https://epg.pw/stream/da56dba8bc950375b103ee55f17a9a28826d5de51b6b9a5feb99cddeb13fc8d1.ctv
+#EXTINF:-1 group-title="iPV4·频道",翡翠台
+https://epg.pw/stream/279c68f1813ee1b4898623fc6ec33781e7caecfa5aaf7f5e9a799d5d5599dad6.ctv
+#EXTINF:-1 group-title="iPV4·频道",CCTV-13 新闻
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 #EXTINF:-1 group-title="iPV4·频道",CCTV-1 综合
 https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 #EXTINF:-1 group-title="iPV4·频道",CCTV-4 中文国际
@@ -14,42 +28,6 @@ https://epg.pw/stream/ea559ca2b60299bc5dda8015b1cec956d6f3a25de78c88f3efa9d2d634
 https://epg.pw/stream/913869ea7d7a306dba8e2f2aa14aaa3ca03cb050d7bb1ab40cf6693f04a3ba2a.ctv
 #EXTINF:-1 group-title="iPV4·频道",CCTV-9 记录
 https://epg.pw/stream/3db3e563b4920f7f1674c8a0bfc318f898c20680c4c64cafd1b2dc199f670b14.ctv
-#EXTINF:-1 group-title="iPV4·频道",CCTV-13 新闻
-https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-
-
-#--------iPV4·港澳台----------------------------
-#EXTINF:-1 group-title="iPV4·港澳台",環球電視台
-http://zb.xzxwhcb.com:9999/hls/world.m3u8
-#EXTINF:-1 group-title="iPV4·港澳台",凤凰中文台HD
-http://113.117.74.52:8081/hls/37/index.m3u8
-#EXTINF:-1 group-title="iPV4·港澳台",凤凰资讯台HD
-http://113.117.74.52:8081/hls/36/index.m3u8
-#EXTINF:-1 group-title="iPV4·港澳台",凤凰香港台HD
-http://113.117.74.52:8081/hls/38/index.m3u8
-#EXTINF:-1 group-title="iPV4·港澳台",澳门莲花
-https://epg.pw/stream/da56dba8bc950375b103ee55f17a9a28826d5de51b6b9a5feb99cddeb13fc8d1.ctv
-#EXTINF:-1 group-title="iPV4·港澳台",翡翠台
-https://epg.pw/stream/279c68f1813ee1b4898623fc6ec33781e7caecfa5aaf7f5e9a799d5d5599dad6.ctv
-
-##EXTINF:-1 group-title="iPV4·港澳台",東森電影台
-
-##EXTINF:-1 group-title="iPV4·港澳台",東森洋片台
-
-##EXTINF:-1 group-title="iPV4·港澳台",龍祥时代
-
-##EXTINF:-1 group-title="iPV4·港澳台",星衛電影台
-
-##EXTINF:-1 group-title="iPV4·港澳台",美亞電影台
-
-##EXTINF:-1 group-title="iPV4·港澳台",ELTA影劇
-
-##EXTINF:-1 group-title="iPV4·港澳台",LTV龍華戲劇
-
-##EXTINF:-1 group-title="iPV4·港澳台",LTV龍華偶像
-
-##EXTINF:-1 group-title="iPV4·港澳台",EYETV戲劇
-
 
 #--------iPV6·数字----------------------------
 #EXTINF:-1 tvg-name="凤凰中文" group-title="iPV6·数字",凤凰中文台HD
