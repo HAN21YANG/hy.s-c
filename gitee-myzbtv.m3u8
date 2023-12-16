@@ -44,9 +44,9 @@ https://epg.pw/stream/279c68f1813ee1b4898623fc6ec33781e7caecfa5aaf7f5e9a799d5d55
 
 ##EXTINF:-1 group-title="iPV4·港澳台",ELTA影劇
 
-#EXTINF:-1 group-title="iPV4·港澳台",LTV龍華戲劇
+##EXTINF:-1 group-title="iPV4·港澳台",LTV龍華戲劇
 
-#EXTINF:-1 group-title="iPV4·港澳台",LTV龍華偶像
+##EXTINF:-1 group-title="iPV4·港澳台",LTV龍華偶像
 
 ##EXTINF:-1 group-title="iPV4·港澳台",EYETV戲劇
 
