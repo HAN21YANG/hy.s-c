@@ -267,3 +267,5 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001230/index.m3u8
 #EXTINF:-1 group-title="iPV6·地区",快乐垂钓
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001235/index.m3u8
+#EXTINF:-1 group-title="iPV6·地区",游戏风云
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001192/index.m3u8
