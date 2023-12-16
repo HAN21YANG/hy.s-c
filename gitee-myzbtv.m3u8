@@ -27,6 +27,14 @@ https://epg.pw/stream/913869ea7d7a306dba8e2f2aa14aaa3ca03cb050d7bb1ab40cf6693f04
 #EXTINF:-1 group-title="iPV4·测试",CCTV-9 记录
 https://epg.pw/stream/3db3e563b4920f7f1674c8a0bfc318f898c20680c4c64cafd1b2dc199f670b14.ctv
 
+#EXTINF:-1 group-title="iPV4·测试",大爱2台
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 group-title="iPV4·测试",台视HD
+http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1047
+#EXTINF:-1 group-title="iPV4·测试",中视HD
+http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1048
+
+
 #--------iPV6·数字----------------------------
 #EXTINF:-1 tvg-name="凤凰中文" group-title="iPV6·数字",凤凰中文台HD
 http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
@@ -70,14 +78,6 @@ http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/5841816227539527643/index.m3u8?channel-id=wasusyt&Contentid=5841816227539527643&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="欧洲影院" group-title="iPV6·数字",欧美影院
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/7185203501769528108/index.m3u8?channel-id=wasusyt&Contentid=7185203501769528108&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="欧洲影院" group-title="iPV6·数字",院线影视
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000034/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000034&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="欧洲影院" group-title="iPV6·数字",江苏移动4K影视
-http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221227579/index.m3u8
-#EXTINF:-1 tvg-name="欧洲影院" group-title="iPV6·数字",华数超清
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="欧洲影院" group-title="iPV6·数字",CCTV6影视
-http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw1744141582_1739723586/ott.mobaibox.com/PLTV/3/224/3221227301/index.m3u8?icpid=3&RTS=1674386154&from=40&popid=40&hms_devid=2036&prioritypopid=40&vqe=3
 
 #--------iPV6·央视----------------------------
 #EXTINF:-1 group-title="iPV6·央视",CCTV-1 综合
