@@ -29,10 +29,8 @@ https://epg.pw/stream/3db3e563b4920f7f1674c8a0bfc318f898c20680c4c64cafd1b2dc199f
 
 #EXTINF:-1 group-title="iPV4·测试",大爱2台
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-#EXTINF:-1 group-title="iPV4·测试",台视HD
-http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1047
-#EXTINF:-1 group-title="iPV4·测试",中视HD
-http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1048
+#EXTINF:-1 group-title="iPV4·测试",大爱2台
+http://ainm.cc/a/play/php/migu.php?id=cctv4o
 
 
 #--------iPV6·数字----------------------------
