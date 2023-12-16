@@ -29,24 +29,26 @@ http://113.117.74.52:8081/hls/36/index.m3u8
 http://113.117.74.52:8081/hls/38/index.m3u8
 #EXTINF:-1 group-title="iPV4·港澳台",澳门莲花
 https://epg.pw/stream/da56dba8bc950375b103ee55f17a9a28826d5de51b6b9a5feb99cddeb13fc8d1.ctv
-#EXTINF:-1 group-title="iPV4·港澳台",東森電影台
-http://gwtv.cnv8.tv:8097/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996
-#EXTINF:-1 group-title="iPV4·港澳台",東森洋片台
-http://gwtv.cnv8.tv:8097/ettvwestern/playlist.m3u8
-#EXTINF:-1 group-title="iPV4·港澳台",龍祥时代
-http://gwtv.cnv8.tv:8097/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8
-#EXTINF:-1 group-title="iPV4·港澳台",星衛電影台
-https://epg.pw/stream/3250342568c788b2a08f0718b2a2ad40002007ad28a3b83468d2f33b560f86f2.m3u8
-#EXTINF:-1 group-title="iPV4·港澳台",美亞電影台
-https://epg.pw/stream/bbc27a0994e3a6d5f1bbd667f2a13752530e8e75be271ad527a29382b23adbd7.m3u8
-#EXTINF:-1 group-title="iPV4·港澳台",ELTA影劇
-https://epg.pw/stream/d2a4b8aabe19df233b0bf58c33f01a5671e4c0cc6869ca3e75bff12a0cdd6ddd.m3u8
+#EXTINF:-1 group-title="iPV4·港澳台",翡翠台
+https://epg.pw/stream/279c68f1813ee1b4898623fc6ec33781e7caecfa5aaf7f5e9a799d5d5599dad6.ctv
+
+##EXTINF:-1 group-title="iPV4·港澳台",東森電影台
+
+##EXTINF:-1 group-title="iPV4·港澳台",東森洋片台
+
+##EXTINF:-1 group-title="iPV4·港澳台",龍祥时代
+
+##EXTINF:-1 group-title="iPV4·港澳台",星衛電影台
+
+##EXTINF:-1 group-title="iPV4·港澳台",美亞電影台
+
+##EXTINF:-1 group-title="iPV4·港澳台",ELTA影劇
+
 #EXTINF:-1 group-title="iPV4·港澳台",LTV龍華戲劇
-https://epg.pw/stream/78528078955ce71bc31c6ea13cb093aa3c75c7b715612e1e745af3a7f2c56d8c.m3u8
+
 #EXTINF:-1 group-title="iPV4·港澳台",LTV龍華偶像
-https://epg.pw/stream/c813161b08039390e05aa5f58a503d9fe6bf319d4ebaf86a500ac5de1ca3e56f.m3u8
-#EXTINF:-1 group-title="iPV4·港澳台",EYETV戲劇
-https://epg.pw/stream/a635de57deeba3e9b1db9d53aaf28922e139acf1f23b51f5c104a95e8972ec3f.m3u8
+
+##EXTINF:-1 group-title="iPV4·港澳台",EYETV戲劇
 
 
 #--------iPV6·数字----------------------------
