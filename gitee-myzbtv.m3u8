@@ -69,10 +69,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw1958249448_-1314265822/o
 http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/ott.mobaibox.com/PLTV/4/224/3221228242/index.m3u8
 #EXTINF:-1 tvg-name="华数 4K" group-title="iPV6·数字",华数 4K
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="亚洲影院" group-title="iPV6·数字",亚洲影院
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/5841816227539527643/index.m3u8?channel-id=wasusyt&Contentid=5841816227539527643&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="欧洲影院" group-title="iPV6·数字",欧美影院
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/7185203501769528108/index.m3u8?channel-id=wasusyt&Contentid=7185203501769528108&livemode=1&stbId=3
+
 
 #--------iPV6·央视----------------------------
 #EXTINF:-1 group-title="iPV6·央视",CCTV-1 综合
@@ -147,10 +144,6 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001460/index.m3u8
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?
 #EXTINF:-1 tvg-name="黑莓动画" group-title="iPV6·动画",黑莓动画
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
-#EXTINF:-1 tvg-name="宝贝动画" group-title="iPV6·动画",宝贝动画
-http://nas.jdshipin.com:8801/bst.php?id=bbdh8m/8000000
-#EXTINF:-1 tvg-name="青春动漫" group-title="iPV6·动画",青春动漫
-http://nas.jdshipin.com:8801/bst.php?id=qcdm8m/8000000
 
 #--------iPV6·卫视----------------------------
 #EXTINF:-1 tvg-name="北京卫视" group-title="iPV6·卫视",北京卫视
