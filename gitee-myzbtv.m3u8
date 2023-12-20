@@ -4,8 +4,6 @@
 http://vvlive.eztv.vip/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
 #EXTINF:-1 group-title="iPV4·测试",EZTV-2 欧洲华文台
 http://vvlive.eztv.vip/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
-#EXTINF:-1 group-title="iPV4·测试",環球電視台
-http://zb.xzxwhcb.com:9999/hls/world.m3u8
 #EXTINF:-1 group-title="iPV4·测试",凤凰中文台HD
 http://113.117.74.52:8081/hls/37/index.m3u8
 #EXTINF:-1 group-title="iPV4·测试",凤凰资讯台HD
@@ -22,12 +20,16 @@ https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 https://epg.pw/stream/27dd2885c32ca621fd9b8290cccb8706db0bbdf5131dde158432969c8b4582bf.ctv
 #EXTINF:-1 group-title="iPV4·测试",CCTV-6 电影
 https://epg.pw/stream/ea559ca2b60299bc5dda8015b1cec956d6f3a25de78c88f3efa9d2d634829e54.ctv
-#EXTINF:-1 group-title="iPV4·测试",CCTV-8 电视剧
-https://epg.pw/stream/913869ea7d7a306dba8e2f2aa14aaa3ca03cb050d7bb1ab40cf6693f04a3ba2a.ctv
 #EXTINF:-1 group-title="iPV4·测试",CCTV-9 记录
 https://epg.pw/stream/3db3e563b4920f7f1674c8a0bfc318f898c20680c4c64cafd1b2dc199f670b14.ctv
-#EXTINF:-1 group-title="iPV4·测试",大爱2台
-https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 group-title="iPV4·测试",東森電影
+https://epg.pw/stream/e9f54f6143df26b67654b06b502f3f0fb6382a9434bca623692b0f7c4712801c.ctv
+#EXTINF:-1 group-title="iPV4·测试",東森洋片
+https://epg.pw/stream/e9e71a8409b2623584f3f903688bb0244ca19194383b80ba713bd0111868a9ac.ctv
+#EXTINF:-1 group-title="iPV4·测试",龙祥时代
+https://epg.pw/stream/9404e32456473a20ff1d28e9060baf33bdf75462ba286cfc1895d54c7bb35c9b.ctv
+#EXTINF:-1 group-title="iPV4·测试",好萊塢電影
+https://epg.pw/stream/733ec67158fa5006ff1049b12f534c974af3db60a3e381725e8cbfd20b0a2765.ctv
 
 
 #--------iPV6·数字----------------------------
