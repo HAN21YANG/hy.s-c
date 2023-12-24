@@ -1,5 +1,9 @@
 #EXTM3U8
 #--------iPV4·测试----------------------------
+#EXTINF:-1 group-title="iPV4·测试",CCTV-13 新闻
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+#EXTINF:-1 group-title="iPV4·测试",CCTV-1 综合
+https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 #EXTINF:-1 group-title="iPV4·测试",凤凰中文台HD
 http://113.117.74.52:8081/hls/37/index.m3u8
 #EXTINF:-1 group-title="iPV4·测试",凤凰资讯台HD
@@ -8,10 +12,6 @@ http://113.117.74.52:8081/hls/36/index.m3u8
 http://113.117.74.52:8081/hls/38/index.m3u8
 #EXTINF:-1 group-title="iPV4·测试",澳门莲花
 https://epg.pw/stream/da56dba8bc950375b103ee55f17a9a28826d5de51b6b9a5feb99cddeb13fc8d1.ctv
-#EXTINF:-1 group-title="iPV4·测试",CCTV-13 新闻
-https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-#EXTINF:-1 group-title="iPV4·测试",CCTV-1 综合
-https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 #EXTINF:-1 group-title="iPV4·测试",東森電影
 https://epg.pw/stream/2b9694161f75806179149e3b0bffc576073f99c5fefd7c55b85ed46722882104.ctv
 #EXTINF:-1 group-title="iPV4·测试",東森洋片
