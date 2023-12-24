@@ -7,13 +7,9 @@
             "url": "http://meowtv.cn/tv",
             "name": "🚀喵影视TV"
         },
-                {
+        {
             "url": "https://www.huichunniao.cn/xh/t.json",
             "name": "🏡小荷线路"
-        },
-        {
-            "url": "https://codeberg.org/looktv/35xs/raw/branch/main/35xs.json ",
-            "name": "🚀畅影随行TV"
         }
     ]
 }
