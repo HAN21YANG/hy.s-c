@@ -4,6 +4,8 @@
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 #EXTINF:-1 group-title="iPV4·测试",CCTV-1 综合
 https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+#EXTINF:-1 group-title="iPV4·测试",邵氏影院
+http://epg.112114.xyz/douyu/4246519
 #EXTINF:-1 group-title="iPV4·测试",凤凰中文台HD
 http://113.117.74.52:8081/hls/37/index.m3u8
 #EXTINF:-1 group-title="iPV4·测试",凤凰资讯台HD
