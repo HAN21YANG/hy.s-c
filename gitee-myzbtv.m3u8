@@ -10,18 +10,12 @@ http://113.117.74.52:8081/hls/37/index.m3u8
 http://113.117.74.52:8081/hls/36/index.m3u8
 #EXTINF:-1 group-title="iPV4·测试",凤凰香港台HD
 http://113.117.74.52:8081/hls/38/index.m3u8
-#EXTINF:-1 group-title="iPV4·测试",邵氏影院
-http://epg.112114.xyz/douyu/4246519
-#EXTINF:-1 group-title="iPV4·测试",澳门莲花
-https://epg.pw/stream/da56dba8bc950375b103ee55f17a9a28826d5de51b6b9a5feb99cddeb13fc8d1.ctv
 #EXTINF:-1 group-title="iPV4·测试",東森電影
 https://epg.pw/stream/2b9694161f75806179149e3b0bffc576073f99c5fefd7c55b85ed46722882104.ctv
 #EXTINF:-1 group-title="iPV4·测试",東森洋片
-https://epg.pw/stream/174e889e18ee147a5a31e2cbbdb2263b34feed24ffd00bf6cc791e979af14f58.ctv
-#EXTINF:-1 group-title="iPV4·测试",美亞電影台
-https://epg.pw/stream/0dcaf73c6e442742d4682b039c9bfdda8b0a035c5947fae6f162f9fad1869ef3.ctv
+https://epg.pw/stream/4c7a4a507c06cf73baa0fc19509363072e9b48c0d4555bafaecdbd5072bfc878.ctv
 #EXTINF:-1 group-title="iPV4·测试",龙祥时代
-https://epg.pw/stream/9404e32456473a20ff1d28e9060baf33bdf75462ba286cfc1895d54c7bb35c9b.ctv
+https://epg.pw/stream/bf3731c7381a0c87f67c1528fa6754833f7192e8ad1c266d9b8611b83278044c.ctv
 
 
 #--------iPV6·数字----------------------------
