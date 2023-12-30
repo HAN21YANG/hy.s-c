@@ -53,12 +53,8 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="iPV6·数字",4K 修复
 http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw1958249448_-1314265822/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
-#EXTINF:-1 tvg-name="纯享4K" group-title="iPV6·数字",纯享 4K
-http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/ott.mobaibox.com/PLTV/4/224/3221228242/index.m3u8
 #EXTINF:-1 tvg-name="华数 4K" group-title="iPV6·数字",华数 4K
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
-
-
 
 #--------iPV6·央视----------------------------
 #EXTINF:-1 group-title="iPV6·央视",CCTV-1 综合
@@ -162,7 +158,7 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001028/index.m3u8
 #EXTINF:-1 tvg-name="江西卫视" group-title="iPV6·卫视",江西卫视
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001034/index.m3u8
 #EXTINF:-1 tvg-name="河北卫视" group-title="iPV6·卫视",河北卫视
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001229/index.m3u8?love=freedom
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001229/index.m3u8
 #EXTINF:-1 tvg-name="河南卫视" group-title="iPV6·卫视",河南卫视
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001222/index.m3u8
 #EXTINF:-1 tvg-name="海南卫视" group-title="iPV6·卫视",海南卫视
@@ -204,7 +200,7 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001066/index.m3u8
 #EXTINF:-1 group-title="iPV6·卫视",延边卫视
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001470/index.m3u8
 #EXTINF:-1 group-title="iPV6·卫视",厦门卫视
-http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000193/index.m3u8?fmmv6
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226219/index.m3u8
 
 #--------iPV6·iHOT----------------------------
 #EXTINF:-1 tvg-name="null" group-title="iPV6·iHOT",iHOT爱科学
@@ -226,9 +222,9 @@ http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000180630/index.
 
 #--------iPV6·地区------------------------
 #EXTINF:-1 tvg-name="上海东方影视" group-title="iPV6·地区",东方影视
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001016/index.m3u8?love=freedom
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001016/index.m3u8
 #EXTINF:-1 tvg-name="上海外语频道" group-title="iPV6·地区",上海外语频道
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001128/index.m3u8?love=freedom
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001128/index.m3u8
 #EXTINF:-1 group-title="iPV6·地区",北京纪实科教
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="iPV6·地区",金鹰纪实
