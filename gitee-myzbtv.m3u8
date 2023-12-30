@@ -17,6 +17,9 @@ https://epg.pw/stream/4c7a4a507c06cf73baa0fc19509363072e9b48c0d4555bafaecdbd5072
 #EXTINF:-1 group-title="iPV4·测试",龙祥时代
 https://epg.pw/stream/bf3731c7381a0c87f67c1528fa6754833f7192e8ad1c266d9b8611b83278044c.ctv
 
+#EXTINF:-1 group-title="iPV4·测试",爱上4K
+http://[2409:8087:7001:20:3::5]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226352/index.m3u8
+
 
 #--------iPV6·数字----------------------------
 #EXTINF:-1 tvg-name="凤凰中文" group-title="iPV6·数字",凤凰中文台HD
