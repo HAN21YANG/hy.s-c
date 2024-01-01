@@ -1,22 +1,17 @@
 #EXTM3U8
-#--------iPV4·测试----------------------------
-#EXTINF:-1 group-title="iPV4·测试",CCTV-13 新闻
-https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-#EXTINF:-1 group-title="iPV4·测试",CCTV-1 综合
-https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
-#EXTINF:-1 group-title="iPV4·测试",凤凰中文台HD
-http://113.117.74.52:8081/hls/37/index.m3u8
-#EXTINF:-1 group-title="iPV4·测试",凤凰资讯台HD
-http://113.117.74.52:8081/hls/36/index.m3u8
-#EXTINF:-1 group-title="iPV4·测试",凤凰香港台HD
-http://113.117.74.52:8081/hls/38/index.m3u8
-#EXTINF:-1 group-title="iPV4·测试",東森電影
-https://epg.pw/stream/bdff5f78a30078781ecaf445357ff4524e7db2b9b28c72bbc92c576558adc8a4.ctv
-#EXTINF:-1 group-title="iPV4·测试",東森洋片
-https://epg.pw/stream/1abe59a9dabbc90b0200ca9a894ddbfefb8f2347464bb1199e0fb83fa8954d9e.ctv
-#EXTINF:-1 group-title="iPV4·测试",龙祥时代
-https://epg.pw/stream/bf3731c7381a0c87f67c1528fa6754833f7192e8ad1c266d9b8611b83278044c.ctv
-
+#--------iPV6·动画----------------------------
+#EXTINF:-1 tvg-name="动漫秀场" group-title="iPV6·动画",动漫秀场
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001196/index.m3u8
+#EXTINF:-1 tvg-name="卡酷少儿" group-title="iPV6·动画",卡酷少儿
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001245/index.m3u8
+#EXTINF:-1 tvg-name="哈哈炫动" group-title="iPV6·动画",哈哈炫动
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001232/index.m3u8
+#EXTINF:-1 group-title="iPV6·动画",金鹰卡通
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001460/index.m3u8
+#EXTINF:-1 group-title="iPV6·动画",海南少儿
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?
+#EXTINF:-1 tvg-name="黑莓动画" group-title="iPV6·动画",黑莓动画
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 
 #--------iPV6·数字----------------------------
 #EXTINF:-1 tvg-name="凤凰中文" group-title="iPV6·数字",凤凰中文台HD
@@ -116,19 +111,6 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001024/index.m3
 #EXTINF:-1 tvg-name="CGTV" group-title="iPV6·央视",CGTV 记录
 http://zteres.sn.chinamobile.com:6060/000000001000/7114647837765104058/index.m3u8?channel-id=hnbblive&Contentid=7114647837765104058&livemode=1&stbId=3
 
-#--------iPV6·动画----------------------------
-#EXTINF:-1 tvg-name="动漫秀场" group-title="iPV6·动画",动漫秀场
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001196/index.m3u8
-#EXTINF:-1 tvg-name="卡酷少儿" group-title="iPV6·动画",卡酷少儿
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001245/index.m3u8
-#EXTINF:-1 tvg-name="哈哈炫动" group-title="iPV6·动画",哈哈炫动
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001232/index.m3u8
-#EXTINF:-1 group-title="iPV6·动画",金鹰卡通
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001460/index.m3u8
-#EXTINF:-1 group-title="iPV6·动画",海南少儿
-http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?
-#EXTINF:-1 tvg-name="黑莓动画" group-title="iPV6·动画",黑莓动画
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 
 #--------iPV6·卫视----------------------------
 #EXTINF:-1 tvg-name="北京卫视" group-title="iPV6·卫视",北京卫视
@@ -234,3 +216,22 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001230/index.m3u8
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001235/index.m3u8
 #EXTINF:-1 group-title="iPV6·地区",游戏风云
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001192/index.m3u8
+
+
+#--------iPV4·测试----------------------------
+#EXTINF:-1 group-title="iPV4·测试",CCTV-13 新闻
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+#EXTINF:-1 group-title="iPV4·测试",CCTV-1 综合
+https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+#EXTINF:-1 group-title="iPV4·测试",凤凰中文台HD
+http://113.117.74.52:8081/hls/37/index.m3u8
+#EXTINF:-1 group-title="iPV4·测试",凤凰资讯台HD
+http://113.117.74.52:8081/hls/36/index.m3u8
+#EXTINF:-1 group-title="iPV4·测试",凤凰香港台HD
+http://113.117.74.52:8081/hls/38/index.m3u8
+#EXTINF:-1 group-title="iPV4·测试",東森電影
+https://epg.pw/stream/bdff5f78a30078781ecaf445357ff4524e7db2b9b28c72bbc92c576558adc8a4.ctv
+#EXTINF:-1 group-title="iPV4·测试",東森洋片
+https://epg.pw/stream/1abe59a9dabbc90b0200ca9a894ddbfefb8f2347464bb1199e0fb83fa8954d9e.ctv
+#EXTINF:-1 group-title="iPV4·测试",龙祥时代
+https://epg.pw/stream/bf3731c7381a0c87f67c1528fa6754833f7192e8ad1c266d9b8611b83278044c.ctv
