@@ -1,4 +1,17 @@
 #EXTM3U8
+#--------iPV4·测试----------------------------
+#EXTINF:-1 group-title="iPV4·测试",CCTV-13 新闻
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+#EXTINF:-1 group-title="iPV4·测试",CCTV-1 综合
+https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+http://113.117.74.52:8081/hls/38/index.m3u8
+#EXTINF:-1 group-title="iPV4·测试",東森電影
+https://epg.pw/stream/bdff5f78a30078781ecaf445357ff4524e7db2b9b28c72bbc92c576558adc8a4.ctv
+#EXTINF:-1 group-title="iPV4·测试",東森洋片
+https://epg.pw/stream/1abe59a9dabbc90b0200ca9a894ddbfefb8f2347464bb1199e0fb83fa8954d9e.ctv
+#EXTINF:-1 group-title="iPV4·测试",龙祥时代
+https://epg.pw/stream/bf3731c7381a0c87f67c1528fa6754833f7192e8ad1c266d9b8611b83278044c.ctv
+
 #--------iPV6·数字----------------------------
 #EXTINF:-1 tvg-name="凤凰中文" group-title="iPV6·数字",凤凰中文台HD
 http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
@@ -18,14 +31,12 @@ http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000010046/index.
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="求索科学" group-title="iPV6·数字",求索科学
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="都市剧场" group-title="iPV6·数字",欢笑剧场
+#EXTINF:-1 tvg-name="欢笑剧场" group-title="iPV6·数字",欢笑剧场
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001193/index.m3u8
 #EXTINF:-1 tvg-name="都市剧场" group-title="iPV6·数字",都市剧场
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001203/index.m3u8
 #EXTINF:-1 group-title="iPV6·数字",百姓生活
 http://[2409:8087:2001:20:2800:0:df6e:eb20]:80/wh7f454c46tw2443646736_1371286730/ott.mobaibox.com/PLTV/3/224/3221228466/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
-#EXTINF:-1 group-title="iPV6·数字",知否知否
-http://[2409:8087:2001:20:2800:0:df6e:eb20]:80/wh7f454c46tw4153357107_-1457036326/ott.mobaibox.com/PLTV/3/224/3221228465/index.m3u8?icpid=3&RTS=1674371383&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-name="黑莓电影" group-title="iPV6·数字",黑莓电影
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8
 #EXTINF:-1 tvg-name="null" group-title="iPV6·数字",精彩影视
@@ -46,6 +57,8 @@ http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw1958249448_-1314265822/o
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 #EXTINF:-1 group-title="iPV6·数字",江苏移动4K影视
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221227579/index.m3u8
+#EXTINF:-1 group-title="iPV6·数字",热播精选
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000016/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000016&livemode=1&stbId=3
 
 
 #--------iPV6·动画----------------------------
@@ -228,21 +241,3 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001235/index.m3u8
 #EXTINF:-1 group-title="iPV6·地区",游戏风云
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001192/index.m3u8
 
-
-#--------iPV4·测试----------------------------
-#EXTINF:-1 group-title="iPV4·测试",CCTV-13 新闻
-https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-#EXTINF:-1 group-title="iPV4·测试",CCTV-1 综合
-https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
-#EXTINF:-1 group-title="iPV4·测试",凤凰中文台HD
-http://113.117.74.52:8081/hls/37/index.m3u8
-#EXTINF:-1 group-title="iPV4·测试",凤凰资讯台HD
-http://113.117.74.52:8081/hls/36/index.m3u8
-#EXTINF:-1 group-title="iPV4·测试",凤凰香港台HD
-http://113.117.74.52:8081/hls/38/index.m3u8
-#EXTINF:-1 group-title="iPV4·测试",東森電影
-https://epg.pw/stream/bdff5f78a30078781ecaf445357ff4524e7db2b9b28c72bbc92c576558adc8a4.ctv
-#EXTINF:-1 group-title="iPV4·测试",東森洋片
-https://epg.pw/stream/1abe59a9dabbc90b0200ca9a894ddbfefb8f2347464bb1199e0fb83fa8954d9e.ctv
-#EXTINF:-1 group-title="iPV4·测试",龙祥时代
-https://epg.pw/stream/bf3731c7381a0c87f67c1528fa6754833f7192e8ad1c266d9b8611b83278044c.ctv
