@@ -18,7 +18,6 @@ http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/3/224/32212285
 #EXTINF:-1 tvg-name="凤凰资讯" group-title="iPV6·数字",凤凰资讯台HD
 http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 #EXTINF:-1 tvg-name="凤凰香港" group-title="iPV6·数字",凤凰香港台HD
-http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/PLTV/1/224/3221231041/1.m3u8
 http://[2409:8087:2001:20:2800:0:df6e:eb1d]/ott.mobaibox.com/PLTV/3/224/3221228530/1.m3u8
 #EXTINF:-1 tvg-name="纪实人文" group-title="iPV6·数字",纪实人文
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001019/index.m3u8
