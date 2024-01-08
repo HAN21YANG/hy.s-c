@@ -69,6 +69,9 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001232/index.m3u8
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001460/index.m3u8
 #EXTINF:-1 group-title="iPV6·动画",海南少儿
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?
+#EXTINF:-1 group-title="iPV6·动画",浙江少儿
+http://hzdx.chiang.fun:3333/tsfile/live/1009_1.m3u8
+http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1 tvg-name="黑莓动画" group-title="iPV6·动画",黑莓动画
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 
@@ -225,6 +228,12 @@ http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000180630/index.
 
 
 #--------iPV6·地区------------------------
+#EXTINF:-1 group-title="iPV6·地区",法治天地
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001195/index.m3u8
+#EXTINF:-1 group-title="iPV6·地区",生活时尚
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001199/index.m3u8
+#EXTINF:-1 group-title="iPV6·地区",上海都市
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001015/index.m3u8
 #EXTINF:-1 tvg-name="上海东方影视" group-title="iPV6·地区",东方影视
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001016/index.m3u8
 #EXTINF:-1 tvg-name="上海外语频道" group-title="iPV6·地区",上海外语频道
@@ -237,4 +246,3 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001230/index.m3u8
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001235/index.m3u8
 #EXTINF:-1 group-title="iPV6·地区",游戏风云
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001192/index.m3u8
-
