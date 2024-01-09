@@ -2,12 +2,11 @@
 #--------iPV4·测试----------------------------
 #EXTINF:-1 group-title="iPV4·测试",CCTV-13 新闻
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-#EXTINF:-1 group-title="iPV4·测试",影视剧频道
-http://[2409:8087:2001:20:2800:0:df6e:eb08]/wh7f454c46tw3833147877_659161399/ott.mobaibox.com/PLTV/4/224/3221227372/index.m3u8
-#EXTINF:-1 group-title="iPV4·测试",京视剧场
-http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001319/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="iPV4·测试",龙祥时代
-https://epg.pw/stream/bf3731c7381a0c87f67c1528fa6754833f7192e8ad1c266d9b8611b83278044c.ctv
+#EXTINF:-1 group-title="iPV4·测试",EZTV欧洲华文1台
+http://vvlive.eztv.vip/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
+#EXTINF:-1 group-title="iPV4·测试",EZTV欧洲华文2台
+http://vvlive.eztv.vip/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
+
 
 #--------iPV6·数字----------------------------
 #EXTINF:-1 tvg-name="凤凰中文" group-title="iPV6·数字",凤凰中文台HD
