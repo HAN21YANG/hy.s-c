@@ -2,9 +2,6 @@
 #--------iPV4·测试----------------------------
 #EXTINF:-1 group-title="iPV4·测试",CCTV-13 新闻
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-#EXTINF:-1 group-title="iPV4·测试",CCTV-1 综合
-https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
-http://113.117.74.52:8081/hls/38/index.m3u8
 #EXTINF:-1 group-title="iPV4·测试",東森電影
 https://epg.pw/stream/bdff5f78a30078781ecaf445357ff4524e7db2b9b28c72bbc92c576558adc8a4.ctv
 #EXTINF:-1 group-title="iPV4·测试",東森洋片
@@ -223,8 +220,6 @@ http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000180630/index.
 
 
 #--------iPV6·地区------------------------
-#EXTINF:-1 group-title="iPV6·地区",法治天地
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001195/index.m3u8
 #EXTINF:-1 group-title="iPV6·地区",生活时尚
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001199/index.m3u8
 #EXTINF:-1 tvg-name="上海东方影视" group-title="iPV6·地区",东方影视
