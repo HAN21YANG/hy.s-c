@@ -53,6 +53,8 @@ http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw1958249448_-1314265822/o
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 
 #--------iPV6·动画----------------------------
+#EXTINF:-1 tvg-name="动漫秀场" group-title="iPV6·动画",黑龙江少儿
+http://[2409:8087:1a01:df::4035]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/1.m3u8
 #EXTINF:-1 tvg-name="动漫秀场" group-title="iPV6·动画",动漫秀场
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001196/index.m3u8
 #EXTINF:-1 tvg-name="卡酷少儿" group-title="iPV6·动画",卡酷少儿
@@ -202,12 +204,8 @@ http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322
 #--------iPV6·iHOT----------------------------
 #EXTINF:-1 tvg-name="null" group-title="iPV6·iHOT",iHOT爱科学
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000160630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000160630&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="null" group-title="iPV6·iHOT",iHOT爱历史
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000150630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000150630&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="null" group-title="iPV6·iHOT",iHOT爱旅行
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000250630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000250630&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="null" group-title="iPV6·iHOT",iHOT爱怀旧
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000260630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000260630&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="null" group-title="iPV6·iHOT",iHOT爱院线
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="null" group-title="iPV6·iHOT",iHOT爱奇谈
