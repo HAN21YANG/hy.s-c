@@ -2,10 +2,10 @@
 #--------iPV4·测试----------------------------
 #EXTINF:-1 group-title="iPV4·测试",CCTV-13 新闻
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-#EXTINF:-1 group-title="iPV4·测试",東森電影
-https://epg.pw/stream/bdff5f78a30078781ecaf445357ff4524e7db2b9b28c72bbc92c576558adc8a4.ctv
-#EXTINF:-1 group-title="iPV4·测试",東森洋片
-https://epg.pw/stream/1abe59a9dabbc90b0200ca9a894ddbfefb8f2347464bb1199e0fb83fa8954d9e.ctv
+#EXTINF:-1 group-title="iPV4·测试",信号测试
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001579/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="iPV4·测试",京视剧场
+http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001319/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="iPV4·测试",龙祥时代
 https://epg.pw/stream/bf3731c7381a0c87f67c1528fa6754833f7192e8ad1c266d9b8611b83278044c.ctv
 
@@ -205,8 +205,6 @@ http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000250630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000250630&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="null" group-title="iPV6·iHOT",iHOT爱科学
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000160630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000160630&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="null" group-title="iPV6·iHOT",iHOT爱美食
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000120630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000120630&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="null" group-title="iPV6·iHOT",iHOT爱院线
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="null" group-title="iPV6·iHOT",iHOT爱奇谈
