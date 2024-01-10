@@ -6,6 +6,8 @@ https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 http://vvlive.eztv.vip/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
 #EXTINF:-1 group-title="iPV4·测试",EZTV欧洲华文2台
 http://vvlive.eztv.vip/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
+#EXTINF:-1 group-title="iPV4·测试",豆瓣高分
+http://maomao.kandiantv.cn/douyu1.php?id=8770422
 
 
 
@@ -44,16 +46,16 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="iPV6·数字",CHC高清电影
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="iPV6·数字",亚洲影院
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/5841816227539527643/index.m3u8?channel-id=wasusyt&Contentid=5841816227539527643&livemode=1&stbId=3
-#EXTINF:-1 group-title="iPV6·数字",欧美影院
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/7185203501769528108/index.m3u8?channel-id=wasusyt&Contentid=7185203501769528108&livemode=1&stbId=3
 #EXTINF:-1 group-title="iPV6·数字",4K修复
 http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw1958249448_-1314265822/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
 #EXTINF:-1 group-title="iPV6·数字",华数超清4K
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 #EXTINF:-1 group-title="iPV6·数字",海外剧场
 http://[2409:8087:2001:20:2800:0:df6e:eb07]:80/wh7f454c46tw2056934744_1249676649/ott.mobaibox.com/PLTV/3/224/3221227539/index.m3u8?icpid=3&RTS=1674386467&from=40&popid=40&hms_devid=2036&prioritypopid=40&vqe=3
+#EXTINF:-1 group-title="iPV6·数字",亚洲影院
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/5841816227539527643/index.m3u8?channel-id=wasusyt&Contentid=5841816227539527643&livemode=1&stbId=3
+#EXTINF:-1 group-title="iPV6·数字",欧美影院
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/7185203501769528108/index.m3u8?channel-id=wasusyt&Contentid=7185203501769528108&livemode=1&stbId=3
 #EXTINF:-1 group-title="iPV6·数字",知否知否
 http://[2409:8087:2001:20:2800:0:df6e:eb20]:80/wh7f454c46tw4153357107_-1457036326/ott.mobaibox.com/PLTV/3/224/3221228465/index.m3u8?icpid=3&RTS=1674371383&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
 
@@ -206,25 +208,25 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001470/index.m3u8
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226219/index.m3u8
 
 #--------iPV6·iHOT----------------------------
-#EXTINF:-1 group-title="iPV6·卫视",iHOT爱科学
+#EXTINF:-1 group-title="iPV6·iHOT",iHOT爱科学
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000160630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000160630&livemode=1&stbId=3
-#EXTINF:-1 group-title="iPV6·卫视",iHOT爱旅行
+#EXTINF:-1 group-title="iPV6·iHOT",iHOT爱旅行
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000250630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000250630&livemode=1&stbId=3
-#EXTINF:-1 group-title="iPV6·卫视",iHOT爱院线
+#EXTINF:-1 group-title="iPV6·iHOT",iHOT爱院线
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
-#EXTINF:-1 group-title="iPV6·卫视",iHOT爱奇谈
+#EXTINF:-1 group-title="iPV6·iHOT",iHOT爱奇谈
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000270630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000270630&livemode=1&stbId=3
-#EXTINF:-1 group-title="iPV6·卫视",iHOT爱科幻
+#EXTINF:-1 group-title="iPV6·iHOT",iHOT爱科幻
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000020630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=3
-#EXTINF:-1 group-title="iPV6·卫视",iHOT爱喜剧
+#EXTINF:-1 group-title="iPV6·iHOT",iHOT爱喜剧
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000010630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000010630&livemode=1&stbId=3
-#EXTINF:-1 group-title="iPV6·卫视",iHOT爱浪漫
+#EXTINF:-1 group-title="iPV6·iHOT",iHOT爱浪漫
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000040630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000040630&livemode=1&stbId=3
 #EXTINF:-1 group-title="iPV6·卫视",iHOT爱动漫
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
-#EXTINF:-1 group-title="iPV6·卫视",iHOT爱幼教
+#EXTINF:-1 group-title="iPV6·iHOT",iHOT爱幼教
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000180630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000180630&livemode=1&stbId=3
-#EXTINF:-1 group-title="iPV6·卫视",iHOT爱玩具
+#EXTINF:-1 group-title="iPV6·iHOT",iHOT爱玩具
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000220630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000220630&livemode=1&stbId=3
 
 #--------iPV6·地区------------------------
