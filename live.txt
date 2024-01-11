@@ -12,6 +12,10 @@ CCTV-1 综合,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 CCTV-9 记录,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
 EZTV欧洲华文1台,http://vvlive.eztv.vip/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39 
 EZTV欧洲华文2台,http://vvlive.eztv.vip/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
+环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
+四海钓鱼,http://sx.liuyun.wang:88/live/migu.php?id=shdy
+新片放映厅,http://sx.liuyun.wang:88/live/migu.php?id=xpfy
+经典深圳旁边电影,http://sx.liuyun.wang:88/live/migu.php?id=jddy
 
 #--------iPV6·数字----------------------------
 iPV6·数字,#genre#
