@@ -9,9 +9,6 @@
 iPV4·测试,#genre#
 CCTV-13 新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?$高清
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
-四海钓鱼,http://sx.liuyun.wang:88/live/migu.php?id=shdy
-新片放映厅,http://sx.liuyun.wang:88/live/migu.php?id=xpfy
-经典深圳旁边电影,http://sx.liuyun.wang:88/live/migu.php?id=jddy
 CCTV-1HD,http://sx.liuyun.wang:88/live/migu.php?id=cctv1
 CCTV-3HD,http://sx.liuyun.wang:88/live/migu.php?id=cctv3
 CCTV-4HD,http://sx.liuyun.wang:88/live/migu.php?id=cctv4
@@ -157,7 +154,7 @@ iHOT爱动漫,http://[2409:8087:7001:20:1000::95]:6610/000000001000/600000000600
 iHOT爱幼教,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000180630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000180630&livemode=1&stbId=3
 iHOT爱玩具,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000220630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000220630&livemode=1&stbId=3
 
-#--------iPV4·地区------------------------
+#--------BesTV轮播------------------------
 BesTV轮播,#genre#
 华语影院,http://php.jdshipin.com:8880/bst.php?id=hyyy8m/8000000
 星光影院,http://php.jdshipin.com:8880/bst.php?id=xgyy8m/8000000
