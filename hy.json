@@ -4,10 +4,12 @@
   "wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
   //直播源地址
   "lives": [{
-		    "name": "live",
+		    //"name": "live",
+            "name": "gitee-myzbtv",
 		    "type": 0,
-		    "url": "https://gitee.com/h-yang20/hy.s-c/raw/master/live.txt",
-		    "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+		   // "url": "https://gitee.com/h-yang20/hy.s-c/raw/master/live.txt",
+            "url": "https://gitee.com/h-yang20/hy.s-c/raw/master/gitee-myzbtv.m3u8",
+		    "epg": 0,
             "logo": 0
 	    }],
       
