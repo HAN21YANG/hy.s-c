@@ -1,13 +1,18 @@
+//备注
+//直播源，一个频道多源的，后边如何加备注
+//.m3u8的后边加“?$”加上备注名称，可以正常显示和播放
+//但是如果.m3u8后边有后缀的，或者是不是.m3u8
+//还有代理的，php?id=cctv1
+//这种后边如何加备注呢，如果都按加“?$”这种格式加的话，会出现一些源无法播放
 
 #--------iPV4·测试----------------------------
 iPV4·测试,#genre#
-CCTV-13 新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+CCTV-13 新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?$高清
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 四海钓鱼,http://sx.liuyun.wang:88/live/migu.php?id=shdy
 新片放映厅,http://sx.liuyun.wang:88/live/migu.php?id=xpfy
 经典深圳旁边电影,http://sx.liuyun.wang:88/live/migu.php?id=jddy
-CCTV-1HD,http://sx.liuyun.wang:88/live/migu.php?id=cctv1,http://sx.liuyun.wang:88/live/migu.php?id=cctv1b
-CCTV-2HD,http://sx.liuyun.wang:88/live/migu.php?id=cctv2
+CCTV-1HD,http://sx.liuyun.wang:88/live/migu.php?id=cctv1
 CCTV-3HD,http://sx.liuyun.wang:88/live/migu.php?id=cctv3
 CCTV-4HD,http://sx.liuyun.wang:88/live/migu.php?id=cctv4
 CCTV-4欧洲,http://sx.liuyun.wang:88/live/migu.php?id=cctv4o
