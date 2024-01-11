@@ -1,8 +1,32 @@
 #EXTM3U8
 #--------iPV4·测试----------------------------
 CCTV-13 新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-EZTV欧洲华文1台,http://vvlive.eztv.vip/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
-EZTV欧洲华文2台,http://vvlive.eztv.vip/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
+环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
+四海钓鱼,http://sx.liuyun.wang:88/live/migu.php?id=shdy
+新片放映厅,http://sx.liuyun.wang:88/live/migu.php?id=xpfy
+经典深圳旁边电影,http://sx.liuyun.wang:88/live/migu.php?id=jddy
+CCTV-1HD,http://sx.liuyun.wang:88/live/migu.php?id=cctv1
+CCTV-1HD,http://sx.liuyun.wang:88/live/migu.php?id=cctv1b
+CCTV-2HD,http://sx.liuyun.wang:88/live/migu.php?id=cctv2
+CCTV-3HD,http://sx.liuyun.wang:88/live/migu.php?id=cctv3
+CCTV-4HD,http://sx.liuyun.wang:88/live/migu.php?id=cctv4
+CCTV-4欧洲,http://sx.liuyun.wang:88/live/migu.php?id=cctv4o
+CCTV-4美洲,http://sx.liuyun.wang:88/live/migu.php?id=cctv4a
+CCTV-5HD,http://sx.liuyun.wang:88/live/migu.php?id=cctv5
+CCTV-5HD,http://sx.liuyun.wang:88/live/migu.php?id=cctv5b
+CCTV-5+HD,http://sx.liuyun.wang:88/live/migu.php?id=cctv5p
+CCTV-5+HD,http://sx.liuyun.wang:88/live/migu.php?id=cctv5p2
+CCTV-6HD,http://sx.liuyun.wang:88/live/migu.php?id=cctv6
+CCTV-7HD,http://sx.liuyun.wang:88/live/migu.php?id=cctv7
+CCTV-8HD,http://sx.liuyun.wang:88/live/migu.php?id=cctv8
+CCTV-9HD,http://sx.liuyun.wang:88/live/migu.php?id=cctv9
+CCTV-10HD,http://sx.liuyun.wang:88/live/migu.php?id=cctv10
+CCTV-11HD,http://sx.liuyun.wang:88/live/migu.php?id=cctv11
+CCTV-12HD,http://sx.liuyun.wang:88/live/migu.php?id=cctv12
+CCTV-13HD,http://sx.liuyun.wang:88/live/migu.php?id=cctv13
+CCTV-14HD,http://sx.liuyun.wang:88/live/migu.php?id=cctv14
+CCTV-15HD,http://sx.liuyun.wang:88/live/migu.php?id=cctv15
+CCTV-17HD,http://sx.liuyun.wang:88/live/migu.php?id=cctv17
 
 #--------iPV6·数字----------------------------
 iPV6·数字,#genre#
@@ -61,8 +85,10 @@ CCTV-14 少儿,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001240/
 CCTV-15 音乐,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001338/index.m3u8
 CCTV-16 奥林匹克,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001248/index.m3u8
 CCTV-17 农业农村,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001241/index.m3u8
+
 CCTV-4K 超高清,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
 CCTV-8K 超高清,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw2749731958_105918260/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1681529690&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
+
 CCTV电视指南,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
 CCTV文化精品,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
 CCTV世界地理,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002485/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -70,6 +96,7 @@ CCTV第一剧场,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000909900
 CCTV风云剧场,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002505/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV怀旧剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
 CCTV风云音乐,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002525/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
 CGTV-英语,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001024/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CGTV-记录,http://zteres.sn.chinamobile.com:6060/000000001000/7114647837765104058/index.m3u8?channel-id=hnbblive&Contentid=7114647837765104058&livemode=1&stbId=3
 
@@ -124,6 +151,23 @@ iHOT爱浪漫,http://[2409:8087:7001:20:1000::95]:6610/000000001000/600000000600
 iHOT爱动漫,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
 iHOT爱幼教,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000180630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000180630&livemode=1&stbId=3
 iHOT爱玩具,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000220630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000220630&livemode=1&stbId=3
+
+#--------iPV4·地区------------------------
+BesTV轮播,#genre#
+华语影院,http://php.jdshipin.com:8880/bst.php?id=hyyy8m/8000000
+星光影院,http://php.jdshipin.com:8880/bst.php?id=xgyy8m/8000000
+全球大片,http://php.jdshipin.com:8880/bst.php?id=qqdp8m/8000000
+热门剧场,http://php.jdshipin.com:8880/bst.php?id=rmjc8m/8000000
+谍战剧场,http://php.jdshipin.com:8880/bst.php?id=dzjc8m/8000000
+青春动漫,http://php.jdshipin.com:8880/bst.php?id=qcdm8m/8000000
+宝宝动画,http://php.jdshipin.com:8880/bst.php?id=bbdh8m/8000000
+戏曲精选,http://php.jdshipin.com:8880/bst.php?id=xqjx8m/8000000
+热门综艺,http://php.jdshipin.com:8880/bst.php?id=rmzy8m/8000000
+超级体育,http://php.jdshipin.com:8880/bst.php?id=qcsj8m/8000000
+健康养生,http://php.jdshipin.com:8880/bst.php?id=jkys8m/8000000
+百变课堂,http://php.jdshipin.com:8880/bst.php?id=bbkt8m/8000000
+看天下精选,http://php.jdshipin.com:8880/bst.php?id=ktxjx8m/8000000
+电竞天堂,http://php.jdshipin.com:8880/bst.php?id=djtt8m/8000000
 
 #--------iPV6·地区------------------------
 iPV6·地区,#genre#
