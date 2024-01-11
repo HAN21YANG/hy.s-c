@@ -5,9 +5,9 @@
   "lives": [{
 		    "name": "live",
 		    "type": 0,
-		    "url": "./lib/live.txt",
-		    "epg": "http://epg.112114.eu.org/?ch={name}&date={date}",
-                    "logo": "https://epg.112114.xyz/bingimg/logo/{name}.png"
+		    "url": "https://gitee.com/h-yang20/hy.s-c/raw/master/gitee-myzbtv.m3u8",
+		    "epg": 0,
+            "logo": 0
 	    }],
       
 //--------------资源最全面------------------------------------------------
