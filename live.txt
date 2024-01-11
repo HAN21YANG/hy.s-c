@@ -6,8 +6,7 @@ CCTV-13 新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 四海钓鱼,http://sx.liuyun.wang:88/live/migu.php?id=shdy
 新片放映厅,http://sx.liuyun.wang:88/live/migu.php?id=xpfy
 经典深圳旁边电影,http://sx.liuyun.wang:88/live/migu.php?id=jddy
-CCTV-1HD,http://sx.liuyun.wang:88/live/migu.php?id=cctv1
-CCTV-1HD,http://sx.liuyun.wang:88/live/migu.php?id=cctv1b
+CCTV-1HD,http://sx.liuyun.wang:88/live/migu.php?id=cctv1,http://sx.liuyun.wang:88/live/migu.php?id=cctv1b
 CCTV-2HD,http://sx.liuyun.wang:88/live/migu.php?id=cctv2
 CCTV-3HD,http://sx.liuyun.wang:88/live/migu.php?id=cctv3
 CCTV-4HD,http://sx.liuyun.wang:88/live/migu.php?id=cctv4
