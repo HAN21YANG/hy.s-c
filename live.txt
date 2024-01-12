@@ -16,6 +16,9 @@ EZTV欧洲华文2台,http://vvlive.eztv.vip/huawen2/huawen2.m3u8?auth_key=166141
 华语电影,http://epg.112114.xyz/douyu/3928
 斗鱼华语电影,http://epg.112114.xyz/douyu/122402
 斗鱼欧美电影,http://epg.112114.xyz/douyu/20415
+BesTV4K,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
+百视通,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
+百视通,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000196/index.m3u8?IAS
 
 #--------iPV6·数字----------------------------
 iPV6·数字,#genre#
@@ -50,7 +53,6 @@ iPV6·动画,#genre#
 金鹰卡通,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001460/index.m3u8
 海南少儿,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8
 黑莓动画,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
-浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 
 
 #--------iPV6·央视----------------------------
