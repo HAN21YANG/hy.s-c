@@ -13,9 +13,9 @@ CCTV-1 综合,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 CCTV-2 财经,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001220/index.m3u8
 
 CCTV-3 综艺,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001186/index.m3u8
-CCTV-3 综艺,https://node1.olelive.com:6443/live/CCTV3HD/hls.m3u8
 
 CCTV-4 中文国际,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001221/index.m3u8
+CCTV-1 综合,https://node1.olelive.com:6443/live/CCTV4HD/hls.m3u8
 
 CCTV-5 体育,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001187/index.m3u8?$体育频道
 CCTV-5 体育,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001334/index.m3u8?virtualDomain=yinhe.live_hls.zte.com?$体育赛事
@@ -25,7 +25,6 @@ CCTV-6 电影,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/
 CCTV-6 电影,https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
 
 CCTV-7 国防军事,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001236/index.m3u8
-CCTV-7 国防军事,https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8
 
 CCTV-8 电视剧,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001189/index.m3u8
 
@@ -37,19 +36,15 @@ CCTV-10 科教,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001238/
 CCTV-10 科教,http://119.131.240.147:8089/hls/29/index.m3u8
 
 CCTV-11 戏曲,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001309/index.m3u8
-CCTV-11 戏曲,http://119.131.240.147:8089/hls/30/index.m3u8
 
 CCTV-12 社会与法,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001239/index.m3u8
-CCTV-12 社会与法,http://119.131.240.147:8089/hls/31/index.m3u8
 
 CCTV-13 新闻,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001328/index.m3u8
 CCTV-13 新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV-13 新闻,https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
 CCTV-13 新闻,http://119.131.240.147:8089/hls/32/index.m3u8
 
-
 CCTV-14 少儿,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001240/index.m3u8
-CCTV-14 少儿,https://node1.olelive.com:6443/live/CCTV14HD/hls.m3u8
 
 CCTV-15 音乐,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001338/index.m3u8
 
