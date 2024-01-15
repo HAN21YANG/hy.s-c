@@ -494,14 +494,13 @@ iPV4·测试,#genre#
 
 EZTV欧洲华文1台,http://vvlive.eztv.vip/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39 
 EZTV欧洲华文2台,http://vvlive.eztv.vip/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
-邵氏影院,http://43.138.170.29:35455/douyu/4246519
 邵氏影院,http://epg.112114.xyz/douyu/4246519
-华语电影,http://epg.112114.xyz/douyu/122402
+邵氏影院,http://43.138.170.29:35455/douyu/4246519
 斗鱼华语电影,http://epg.112114.xyz/douyu/3928
-
-
-
-
+斗鱼欧美电影,http://epg.112114.xyz/douyu/20415
+贝爷影厅1,http://epg.112114.xyz/douyu/252802
+贝爷影厅2,http://epg.112114.xyz/douyu/36337
+贝爷MAX厅,http://epg.112114.xyz/douyu/4332
 
 
 
