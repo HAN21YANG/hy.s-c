@@ -67,7 +67,7 @@
          }, 
     {   
          "key":"快车资源","name":"🌏快车影视","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,
-         "categories":["国产剧","韩国剧","喜剧片","国产动漫","香港剧","动作片","爱情片","战争片"]
+         "categories":["国产剧","韩国剧","喜剧片","国产动漫","香港剧","动作片","爱情片","战争片","科幻片","剧情片"]
          }, 
     {   
          "key": "csp_xml_百度","name": "🅱️百度资源","type": 1,"api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
