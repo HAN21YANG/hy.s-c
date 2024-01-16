@@ -69,7 +69,6 @@ CCTV-6 电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/inde
 
 CCTV-6 电影,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001859/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-6 电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001275/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-6 电影,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
 
 #-------------------------------------------
 CCTV-7 国防军事,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001236/index.m3u8?$高清1
@@ -514,13 +513,11 @@ CCTV-10 科教,http://119.131.240.147:8089/hls/29/index.m3u8
 EZTV欧洲华文1台,http://vvlive.eztv.vip/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39 
 EZTV欧洲华文2台,http://vvlive.eztv.vip/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
 
-邵氏影院,http://epg.112114.xyz/douyu/4246519
 邵氏影院,http://43.138.170.29:35455/douyu/4246519
 
 斗鱼华语电影,http://159.75.85.63:35455/douyu/122402
 
 斗鱼欧美电影,http://159.75.85.63:35455/douyu/20415
-斗鱼欧美电影,http://epg.112114.xyz/douyu/20415
 
 小宇60帧影院,http://159.75.85.63:35455/douyu/323876
 
