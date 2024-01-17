@@ -490,18 +490,6 @@ iHOT爱幼教,http://[2409:8087:7000:20:1000::22]:6060/000000001000/600000000600
 iHOT爱玩具,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000220630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000220630&livemode=1&stbId=3
 iHOT爱玩具,http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000220630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000220630&livemode=1&stbId=3
 
-#---《BesTV轮播》------------------------------------------------------------------------------------------------------------------
-
-BesTV轮播,#genre#
-
-青春动漫,http://php.jdshipin.com:8880/bst.php?id=qcdm8m/8000000
-宝宝动画,http://php.jdshipin.com:8880/bst.php?id=bbdh8m/8000000
-华语影院,http://php.jdshipin.com:8880/bst.php?id=hyyy8m/8000000
-星光影院,http://php.jdshipin.com:8880/bst.php?id=xgyy8m/8000000
-全球大片,http://php.jdshipin.com:8880/bst.php?id=qqdp8m/8000000
-热门剧场,http://php.jdshipin.com:8880/bst.php?id=rmjc8m/8000000
-健康养生,http://php.jdshipin.com:8880/bst.php?id=jkys8m/8000000
-百变课堂,http://php.jdshipin.com:8880/bst.php?id=bbkt8m/8000000
 
 #---《iPV4·测试》------------------------------------------------------------------------------------------------------------------
 
