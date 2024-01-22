@@ -53,9 +53,7 @@ CCTV-1 综合,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/inde
 
 CCTV-1 综合,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001068/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-1 综合,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8
-
-CCTV-1 综合,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000029752/1.m3u8?channel-id=wasusyt&Contentid=6000000001000029752&livemode=1&stbId=3
-
+CCTV-1 综合,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226247/1.m3u8
 #-------------------------------------------
 CCTV-2 财经,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001220/index.m3u8?$高清1
 CCTV-2 财经,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001220/index.m3u8?$高清2
