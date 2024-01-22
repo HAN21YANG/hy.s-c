@@ -6,25 +6,6 @@
 //还有代理的，php?id=cctv1
 //这种后边如何加备注呢，如果都按加“?$”这种格式加的话，会出现一些源无法播放
 
-#---《iPV4·临时》------------------------------------------------------------------------------------------------------------------
-
-iPV4·临时,#genre#
-
-CCTV01极速,http://ahcbn.ali-cdn.gitv.tv/gitv_escape/G_CCTV-1-HQ/G_CCTV-1-HQ.m3u8 
-CCTV02极速,http://ahcbn.ali-cdn.gitv.tv/gitv_escape/G_CCTV-2-HQ/G_CCTV-2-HQ.m3u8 
-CCTV03极速,http://ahcbn.ali-cdn.gitv.tv/gitv_escape/G_CCTV-3-HQ/G_CCTV-3-HQ.m3u8 
-CCTV04极速,http://ahcbn.ali-cdn.gitv.tv/gitv_escape/G_CCTV-4-HQ/G_CCTV-4-HQ.m3u8 
-CCTV05极速,http://ahcbn.ali-cdn.gitv.tv/gitv_escape/G_CCTV-5-HQ/G_CCTV-5-HQ.m3u8 
-CCTV+5极速,http://ahcbn.ali-cdn.gitv.tv/gitv_escape/G_CCTV-6-HQ/G_CCTV-6-HQ.m3u8 
-CCTV06极速,http://ahcbn.ali-cdn.gitv.tv/gitv_escape/G_CCTV-7-HQ/G_CCTV-7-HQ.m3u8 
-CCTV07极速,http://ahcbn.ali-cdn.gitv.tv/gitv_escape/G_CCTV-8-HQ/G_CCTV-8-HQ.m3u8 
-CCTV08极速,http://ahcbn.ali-cdn.gitv.tv/gitv_escape/G_CCTV-9-HQ/G_CCTV-9-HQ.m3u8 
-CCTV09极速,http://ahcbn.ali-cdn.gitv.tv/gitv_escape/G_CCTV-10-HQ/G_CCTV-10-HQ.m3u8 
-CCTV10极速,http://ahcbn.ali-cdn.gitv.tv/gitv_escape/G_CCTV-11-HQ/G_CCTV-11-HQ.m3u8 
-CCTV11极速,http://ahcbn.ali-cdn.gitv.tv/gitv_escape/G_CCTV-12-HQ/G_CCTV-12-HQ.m3u8 
-CCTV12极速,http://ahcbn.ali-cdn.gitv.tv/gitv_escape/G_CCTV-13-HQ/G_CCTV-13-HQ.m3u8 
-CCTV13极速,http://ahcbn.ali-cdn.gitv.tv/gitv_escape/G_CCTV-14-HQ/G_CCTV-14-HQ.m3u8 
-CCTV14极速,http://ahcbn.ali-cdn.gitv.tv/gitv_escape/G_CCTV-15-HQ/G_CCTV-15-HQ.m3u8 
 
 #---《iPV4·测试》------------------------------------------------------------------------------------------------------------------
 
