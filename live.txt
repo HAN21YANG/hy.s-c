@@ -415,12 +415,6 @@ iPV4·测试,#genre#
 EZTV-1 欧洲华文,http://vvlive.eztv.vip/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39 
 EZTV-2 欧洲华文,http://vvlive.eztv.vip/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
 
-文物宝库,http://171.117.59.14:8082/rtp/226.0.2.110:8792
-文物宝库,http://27.191.77.138:8012/rtp/239.254.201.227:7230
-
-中国交通,http://61.138.167.36:9901/tsfile/live/1038_1.m3u8
-中国交通,http://27.191.77.138:8012/rtp/239.254.201.110:5181
-
 
 
 
