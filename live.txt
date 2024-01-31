@@ -188,6 +188,10 @@ CGTN 频道,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002
 
 iPV6·动画,#genre#
 
+早期教育,http://171.117.59.14:8082/rtp/226.0.2.99:8704
+早期教育,http://27.191.77.138:8012/rtp/239.254.201.230:7253
+
+动漫秀场,http://171.117.59.14:8082/rtp/226.0.2.183:9376
 动漫秀场,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031113/1.m3u8?channel-id=bestzb&Contentid=5000000011000031113&livemode=1&stbId=3
 
 卡酷少儿,http://zteres.sn.chinamobile.com:6060/000000001000/7851974109718180595/1.m3u8?channel-id=bestzb&Contentid=7851974109718180595&livemode=1&stbId=3
@@ -196,15 +200,17 @@ iPV6·动画,#genre#
 哈哈炫动,http://zteres.sn.chinamobile.com:6060/000000001000/5000000005000031641/1.m3u8?channel-id=bestzb&Contentid=5000000005000031641&livemode=1&stbId=3
 哈哈炫动,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
 
+金鹰卡通,http://171.117.59.14:8082/rtp/226.0.2.172:9288
+金鹰卡通,http://27.191.77.138:8012/rtp/239.254.200.92:9252
+金鹰卡通,http://222.95.198.246:4022/rtp/239.49.9.23:6000
 金鹰卡通,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000016601/1.m3u8?channel-id=ystenlive&Contentid=1000000002000016601&livemode=1&stbId=3
 金鹰卡通,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
+
 
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 
 海南少儿,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?IAS
-海南少儿,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?fmmv6
-海南少儿,http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/08984400000000060000000000000323/1.m3u8
-海南少儿,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?IASHttpSessionId=OTT
+
 
 黑莓动画,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 黑莓动画,http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000021734/1.m3u8?channel-id=ystenlive&Contentid=1000000004000021734&livemode=1&stbId=3
@@ -346,7 +352,9 @@ iPV6·卫视,#genre#
 
 iPV6·地区,#genre#
 
-法治天地,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221225627/1.m3u8
+法治天地,http://171.117.59.14:8082/rtp/226.0.2.83:8576
+法治天地,http://27.191.77.138:8012/rtp/239.254.201.183:7226
+
 上海新闻,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031110/1.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
 东方影视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000032212/1.m3u8?channel-id=bestzb&Contentid=5000000010000032212&livemode=1&stbId=3
 上海外语,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226201/1.m3u8
@@ -391,12 +399,17 @@ iHOT爱玩具,http://[2409:8087:7001:20:1000::95]:6610/000000001000/600000000600
 iPV4·测试,#genre#
 
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
-
 EZTV-1 欧洲华文,http://vvlive.eztv.vip/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39 
 EZTV-2 欧洲华文,http://vvlive.eztv.vip/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
 
-CETV-1 综合教育,http://61.138.167.36:9901/tsfile/live/1039_1.m3u8
+文物宝库,http://171.117.59.14:8082/rtp/226.0.2.110:8792
+文物宝库,http://27.191.77.138:8012/rtp/239.254.201.227:7230
+
 中国交通,http://61.138.167.36:9901/tsfile/live/1038_1.m3u8
+中国交通,http://27.191.77.138:8012/rtp/239.254.201.110:5181
+
+CCTV4中文国际欧洲,http://27.191.77.138:8012/rtp/239.254.201.205:4220
+CCTV4中文国际美洲,http://27.191.77.138:8012/rtp/239.254.201.206:4220
 
 
 
