@@ -209,6 +209,7 @@ CGTN 频道,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002
 
 iPV6·动画,#genre#
 
+早期教育,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228692/index.m3u8
 
 动漫秀场,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000009/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000009&livemode=1&stbId=3
 动漫秀场,http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000023636/1.m3u8?channel-id=bestzb&Contentid=5000000002000023636&livemode=1&stbId=3
@@ -358,7 +359,6 @@ iPV6·卫视,#genre#
 黑龙江卫视,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226010/1.m3u8
 
 内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
-内蒙古卫视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN79469BESTVSMGSMG9/index.m3u8?AuthInfo=7lAOfreToIabkYEBYF1%2BWCg%2BFJmNHniNGz9lIf%2FFuMRNPINSc7cKQZCTuuz5ZoufoEYBG34BsDXZsLnY%2B%2BGcEw%3D%3D
 
 甘肃卫视,http://[2409:8087:2001:20:2800:0:df6e:eb1a]/wh7f454c46tw1400573680_-1979013462/ott.mobaibox.com/PLTV/3/224/3221227568/index.m3u8?icpid=3&RTS=1668600490&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
 
@@ -391,7 +391,9 @@ iPV6·地区,#genre#
 梨园频道,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
 武术世界,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078be5d654/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0MVaBO3fffRWKM%2FzNpNYjRBAiSJylXYBAiox0V94ejMfwEtXXuH8b8M%2F%2FDznZB61s
 文物宝库,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078a346161/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA199v9hZiIrZ%2B5X675R6%2FGDjgcqn5UaJ6D814KM9%2FvF7QwvFfeEXMAK7LltfEC%2FKQQ
-
+轮播电视剧1,http://[2409:8087:2001:20:2800:0:df6e:eb21]/ott.mobaibox.com/PLTV/4/224/3221228441/index.m3u8
+轮播电视剧2,http://[2409:8087:2001:20:2800:0:df6e:eb25]/ott.mobaibox.com/PLTV/4/224/3221228465/index.m3u8
+科幻片,http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/4/224/3221228456/index.m3u8
 
 
 #---《iPV6·湖北》------------------------------------------------------------------------------------------------------------------
