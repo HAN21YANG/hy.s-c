@@ -255,7 +255,6 @@ iPV6·动画,#genre#
 黑莓动画,http://[2409:8087:2001:20:2800:0:df6e:eb06]/ott.mobaibox.com/PLTV/3/224/3221227523/index.m3u8
 黑莓动画,http://[2409:8087:2001:20:2800:0:df6e:eb15]:80/wh7f454c46tw1756633734_-1487356125/ott.mobaibox.com/PLTV/3/224/3221225555/index.m3u8?icpid=3&RTS=1674386167&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
 
-少儿动漫,http://[2409:8087:7001:20:1000::95]:6610/000000001000/8145334647720731271/index.m3u8?channel-id=wasusyt&Contentid=8145334647720731271&livemode=1&stbId=3
 
 云视听小电视,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228641/index.m3u8
 
