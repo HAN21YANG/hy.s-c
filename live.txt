@@ -10,7 +10,7 @@
 
 iPV6·央视,#genre#
 
-CCTV-1 综合,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8?$高清1
+CCTV-1 综合,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8?$高清
 CCTV-1 综合,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/index.m3u8
 CCTV-1 综合,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225816/index.m3u8
 CCTV-1 综合,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000029752/1.m3u8?channel-id=wasusyt&Contentid=6000000001000029752&livemode=1&stbId=3
@@ -21,7 +21,7 @@ CCTV-1 综合,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch000000909900000
 CCTV-1 综合,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #-------------------------------------------
-CCTV-2 财经,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8?$高清1
+CCTV-2 财经,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8?$高清
 CCTV-2 财经,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/index.m3u8
 CCTV-2 财经,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226021/index.m3u8
 CCTV-2 财经,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000023315/1.m3u8?channel-id=ystenlive&Contentid=1000000001000023315&livemode=1&stbId=3
@@ -34,24 +34,23 @@ CCTV-2 财经,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000909900000
 CCTV-2 财经,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw3589111099_-1793408755/ott.mobaibox.com/PLTV/3/224/3221227543/index.m3u8?icpid=3&RTS=1668594088&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 
 #-------------------------------------------
-CCTV-3 综艺,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8?$高清1
+CCTV-3 综艺,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8?$高清
 CCTV-3 综艺,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
 CCTV-3 综艺,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225799/index.m3u8
 CCTV-3 综艺,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000022313/1.m3u8?channel-id=wasusyt&Contentid=6000000001000022313&livemode=1&stbId=3
 CCTV-3 综艺,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638727c125355/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSPTZ4CK5oLfjaEYe9dogNMUNNEYLCPUtKY62j1Wp5u04wipypKUQ1TTuR2lXvBl5YpHqBJmlA19x22TD9bUOjk
 CCTV-3 综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 
-CCTV-3 综艺,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001598/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-3 综艺,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001598/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV-3 综艺#http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001598/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV-3 综艺#http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001598/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-CCTV-3 综艺,http://[2409:8087:2001:20:2800:0:df6e:eb21]/ott.mobaibox.com/PLTV/3/224/3221228499/index.m3u8
-CCTV-3 综艺,http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
-CCTV-3 综艺,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228392/index.m3u8
+CCTV-3 综艺,http://[2409:8087:2001:20:2800:0:df6e:eb21]/ott.mobaibox.com/PLTV/3/224/3221228499/index.m3u8?$超清4K1
+CCTV-3 综艺,http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8?$超清4K2
+CCTV-3 综艺#http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228392/index.m3u8
 
 #-------------------------------------------
-CCTV-4 中文国际,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8?$高清1
+CCTV-4 中文国际,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8?$高清
 CCTV-4 中文国际,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/index.m3u8
-CCTV-4 中文国际,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226007/index.m3u8
 CCTV-4 中文国际,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031102/1.m3u8?channel-id=bestzb&Contentid=5000000011000031102&livemode=1&stbId=3
 CCTV-4 中文国际,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000037BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSpr1AVNI633ampcuzdN%2BfH0ZQXwaiVktPr6ILPKXqwOUC2ZXft7ZULN6h9qLQPFOTSlVTfophiKaMb8h1kPV74
 CCTV-4 中文国际,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
@@ -59,19 +58,20 @@ CCTV-4 中文国际,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/322122642
 CCTV-4 中文国际,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001290/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-4 中文国际,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001333/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
+CCTV-4 中文国际,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226007/index.m3u8?$标清
 
 #-------------------------------------------
-CCTV-5 体育,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8?$高清1
+CCTV-5 体育,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8?$高清
 CCTV-5 体育,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/index.m3u8
 CCTV-5 体育,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225818/index.m3u8
 CCTV-5 体育,http://zteres.sn.chinamobile.com:6060/000000001000/1000000003000030177/1.m3u8?channel-id=ystenlive&Contentid=1000000003000030177&livemode=1&stbId=3
 CCTV-5 体育,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638727e617ca0/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSPTZ4CK5oLfjaEYe9dogNMSXw4ajlL%2FoUYC2RZQQDco6uQSifXBocz5ID6RePfIKQ4rFWiHjq%2FeZoDmrzW%2FKlw
 CCTV-5 体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 
-CCTV-5 体育,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
+CCTV-5 体育,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8?$超清4K
 
 #-------------------------------------------
-CCTV-6 电影,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226011/1.m3u8?$高清1
+CCTV-6 电影,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226011/1.m3u8?$高清
 CCTV-6 电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
 CCTV-6 电影,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225814/index.m3u8
 CCTV-6 电影,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000016466/1.m3u8?channel-id=ystenlive&Contentid=1000000001000016466&livemode=1&stbId=3
@@ -84,7 +84,7 @@ CCTV-6 电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000909900000
 CCTV-6 电影,http://[2409:8087:2001:20:2800:0:df6e:eb14]:80/ott.mobaibox.com/PLTV/4/224/3221228123/index.m3u8
 
 #-------------------------------------------
-CCTV-7 国防军事,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/1.m3u8?$高清1
+CCTV-7 国防军事,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/1.m3u8?$高清
 CCTV-7 国防军事,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/index.m3u8
 CCTV-7 国防军事,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225671/index.m3u8
 CCTV-7 国防军事,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000009055/1.m3u8?channel-id=wasusyt&Contentid=6000000001000009055&livemode=1&stbId=3
@@ -92,10 +92,11 @@ CCTV-7 国防军事,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5
 CCTV-7 国防军事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
 
 CCTV-7 国防军事,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001291/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
 CCTV-7 国防军事,http://[2409:8087:2001:20:2800:0:df6e:eb11]:80/wh7f454c46tw1534804996_666837910/ott.mobaibox.com/PLTV/3/224/3221227642/index.m3u8?icpid=3&RTS=1674385945&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
 
 #-------------------------------------------
-CCTV-8 电视剧,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8?$高清1
+CCTV-8 电视剧,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8?$高清
 CCTV-8 电视剧,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
 CCTV-8 电视剧,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225795/index.m3u8
 CCTV-8 电视剧,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000031433/1.m3u8?channel-id=ystenlive&Contentid=1000000001000031433&livemode=1&stbId=3
@@ -108,7 +109,7 @@ CCTV-8 电视剧,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch000000909900
 CCTV-8 电视剧,http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/ott.mobaibox.com/PLTV/4/224/3221227473/index.m3u8
 
 #-------------------------------------------
-CCTV-9 纪录,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8?$高清1
+CCTV-9 纪录,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8?$高清
 CCTV-9 纪录,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/index.m3u8
 CCTV-9 纪录,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225676/index.m3u8
 CCTV-9 纪录,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000014583/1.m3u8?channel-id=ystenlive&Contentid=1000000001000014583&livemode=1&stbId=3
@@ -121,7 +122,7 @@ CCTV-9 纪录,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000909900000
 CCTV-9 纪录,http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/ott.mobaibox.com/PLTV/4/224/3221227614/index.m3u8
 
 #-------------------------------------------
-CCTV-10 科教,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/1.m3u8?$高清1
+CCTV-10 科教,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/1.m3u8?$高清
 CCTV-10 科教,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/index.m3u8
 CCTV-10 科教,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225677/index.m3u8
 CCTV-10 科教,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000016738/1.m3u8?channel-id=bestzb&Contentid=5000000010000016738&livemode=1&stbId=3
@@ -131,9 +132,8 @@ CCTV-10 科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/ind
 CCTV-10 科教,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001288/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #-------------------------------------------
-CCTV-11 戏曲,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226240/1.m3u8?$高清1
+CCTV-11 戏曲,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226240/1.m3u8?$高清
 CCTV-11 戏曲,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226240/index.m3u8
-CCTV-11 戏曲,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225517/index.m3u8
 CCTV-11 戏曲,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031106/1.m3u8?channel-id=bestzb&Contentid=5000000011000031106&livemode=1&stbId=3
 CCTV-11 戏曲,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000053BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTWDyIgRkFJBAHMhA2ayG0Qj2xHA4vdPGsjBbxSL3p%2FmAObVTfznR%2Fpc%2B76QYmLRMuL3Lj9iabhv8arW7kJe6%2F4
 CCTV-11 戏曲,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
@@ -141,8 +141,10 @@ CCTV-11 戏曲,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/ind
 CCTV-11 戏曲,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001327/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-11 戏曲,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001327/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
+CCTV-11 戏曲,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225517/index.m3u8?$标清
+
 #-------------------------------------------
-CCTV-12 社会与法,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226190/1.m3u8?$高清1
+CCTV-12 社会与法,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226190/1.m3u8?$高清
 CCTV-12 社会与法,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226190/index.m3u8
 CCTV-12 社会与法,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225669/index.m3u8
 CCTV-12 社会与法,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000022586/1.m3u8?channel-id=wasusyt&Contentid=6000000001000022586&livemode=1&stbId=3
@@ -153,9 +155,9 @@ CCTV-12 社会与法,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090
 CCTV-12 社会与法,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001289/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #-------------------------------------------
-CCTV-13 新闻,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8?$高清1
+CCTV-13 新闻,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8?$高清
 CCTV-13 新闻,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/index.m3u8
-CCTV-13 新闻,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225812/index.m3u8
+CCTV-13 新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV-13 新闻,http://zteres.sn.chinamobile.com:6060/000000001000/5000000005000001827/1.m3u8?channel-id=bestzb&Contentid=5000000005000001827&livemode=1&stbId=3
 CCTV-13 新闻,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000054BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTWDyIgRkFJBAHMhA2ayG0SuXozn3alq9%2BUx7ZLG1w9awc14iEUxQ5VsTsr5pEBsmF56tXUfsukRUpygmTCKvAI
 CCTV-13 新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
@@ -166,7 +168,7 @@ CCTV-13 新闻,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000
 CCTV-13 新闻,http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/ott.mobaibox.com/PLTV/4/224/3221227387/index.m3u8
 
 #-------------------------------------------
-CCTV-14 少儿,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8?$高清1
+CCTV-14 少儿,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8?$高清
 CCTV-14 少儿,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/index.m3u8
 CCTV-14 少儿,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225674/index.m3u8
 CCTV-14 少儿,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000013647/1.m3u8?channel-id=wasusyt&Contentid=6000000001000013647&livemode=1&stbId=3
@@ -177,7 +179,7 @@ CCTV-14 少儿,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000
 CCTV-14 少儿,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001292/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #-------------------------------------------
-CCTV-15 音乐,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8?$高清1
+CCTV-15 音乐,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8?$高清
 CCTV-15 音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/index.m3u8
 CCTV-15 音乐,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225513/index.m3u8
 CCTV-15 音乐,http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000265014/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265014&livemode=1&stbId=3
@@ -188,17 +190,18 @@ CCTV-15 音乐,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000
 CCTV-15 音乐,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001020/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #-------------------------------------------
-CCTV-16 奥林匹克,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8?$高清1
+CCTV-16 奥林匹克,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8?$高清
 CCTV-16 奥林匹克,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/index.m3u8
 CCTV-16 奥林匹克,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225893/index.m3u8
 CCTV-16 奥林匹克,http://zteres.sn.chinamobile.com:6060/000000001000/5000000008000023254/1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
 CCTV-16 奥林匹克,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 
-CCTV-16 奥林匹克,http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/PLTV/1/224/3221230984/1.m3u8
 CCTV-16 奥林匹克,http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/ott.mobaibox.com/PLTV/4/224/3221228112/index.m3u8
+CCTV-16 奥林匹克,http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/PLTV/1/224/3221230984/1.m3u8?$超清4K
+
 
 #-------------------------------------------
-CCTV-17 农业农村,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226198/1.m3u8?$高清1
+CCTV-17 农业农村,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226198/1.m3u8?$高清
 CCTV-17 农业农村,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226198/index.m3u8
 CCTV-17 农业农村,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225708/index.m3u8
 CCTV-17 农业农村,http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000265015/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265015&livemode=1&stbId=3
@@ -211,7 +214,7 @@ CCTV-17 农业农村,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090
 CCTV-17 农业农村,http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/ott.mobaibox.com/PLTV/4/224/3221227592/index.m3u8
 
 #-------------------------------------------
-CCTV-5+ 体育赛事,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8?$高清1
+CCTV-5+ 体育赛事,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8?$高清
 CCTV-5+ 体育赛事,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/index.m3u8
 CCTV-5+ 体育赛事,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225507/index.m3u8
 CCTV-5+ 体育赛事,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000018504/1.m3u8?channel-id=ystenlive&Contentid=1000000001000018504&livemode=1&stbId=3
