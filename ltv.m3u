@@ -438,6 +438,7 @@ CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 
 
 明星大片,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw2856695654_946966165/ott.mobaibox.com/PLTV/3/224/3221227594/index.m3u8
+海外剧场,http://[2409:8087:2001:20:2800:0:df6e:eb07]:80/wh7f454c46tw2056934744_1249676649/ott.mobaibox.com/PLTV/3/224/3221227539/index.m3u8?icpid=3&RTS=1674386467&from=40&popid=40&hms_devid=2036&prioritypopid=40&vqe=3
 欢乐剧场,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
 百姓生活,http://[2409:8087:2001:20:2800:0:df6e:eb20]:80/wh7f454c46tw2443646736_1371286730/ott.mobaibox.com/PLTV/3/224/3221228466/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
 
@@ -625,7 +626,7 @@ iPV6·地区,#genre#
 武术世界,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078be5d654/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0MVaBO3fffRWKM%2FzNpNYjRBAiSJylXYBAiox0V94ejMfwEtXXuH8b8M%2F%2FDznZB61s
 文物宝库,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078a346161/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA199v9hZiIrZ%2B5X675R6%2FGDjgcqn5UaJ6D814KM9%2FvF7QwvFfeEXMAK7LltfEC%2FKQQ
 
-
+精彩电视剧,http://dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226012/index.m3u8?/PLTV/.smil
 
 #---《iPV6·湖北》------------------------------------------------------------------------------------------------------------------
 
