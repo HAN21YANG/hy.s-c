@@ -584,11 +584,11 @@ iPV6·卫视,#genre#
 
 iPV6·地区,#genre#
 
-游戏风云,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226579/1.m3u8
-游戏风云,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226579/index.m3u8
-
 咪咕全民热练,http://[2409:8087:2001:20:2800:0:df6e:eb21]:80/PLTV/1/224/3221231006/1.m3u8
 咪咕全民热练,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000068/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000068&livemode=1&stbId=3
+
+游戏风云,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226579/1.m3u8
+游戏风云,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226579/index.m3u8
 
 法治天地,http://[2409:8087:7001:20:1000::88]:6610/000000001000/9001547084732463424/index.m3u8?channel-id=bestzb&Contentid=9001547084732463424&livemode=1&stbId=3
 法治天地,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000014/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000014&livemode=1&stbId=3
