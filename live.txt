@@ -394,6 +394,8 @@ iPV6·数字,#genre#
 乐游频道,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226580/index.m3u8
 乐游频道,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002157/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
+百姓生活,http://[2409:8087:2001:20:2800:0:df6e:eb20]:80/wh7f454c46tw2443646736_1371286730/ott.mobaibox.com/PLTV/3/224/3221228466/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
+
 欢笑剧场,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 欢笑剧场,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226582/1.m3u8
 欢笑剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226582/index.m3u8
@@ -444,7 +446,6 @@ CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 亚洲影院,http://[2409:8087:7001:20:1000::95]:6610/000000001000/5841816227539527643/index.m3u8?channel-id=wasusyt&Contentid=5841816227539527643&livemode=1&stbId=3
 欧美影院,http://[2409:8087:7001:20:1000::95]:6610/000000001000/7185203501769528108/index.m3u8?channel-id=wasusyt&Contentid=7185203501769528108&livemode=1&stbId=3
 
-百姓生活,http://[2409:8087:2001:20:2800:0:df6e:eb20]:80/wh7f454c46tw2443646736_1371286730/ott.mobaibox.com/PLTV/3/224/3221228466/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
 
 
 #---《iPV6·卫视》------------------------------------------------------------------------------------------------------------------
