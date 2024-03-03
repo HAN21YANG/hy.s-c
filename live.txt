@@ -639,8 +639,6 @@ iHOT爱玩具,http://[2409:8087:7001:20:1000::95]:6610/000000001000/600000000600
 
 iPV6·新TV,#genre#
 
-百姓生活,http://[2409:8087:2001:20:2800:0:df6e:eb20]:80/wh7f454c46tw2443646736_1371286730/ott.mobaibox.com/PLTV/3/224/3221228466/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
-
 超级电影,http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000031/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000031&livemode=1&stbId=3
 超级电影,http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 
@@ -679,7 +677,8 @@ iPV4·测试,#genre#
 EZTV-1 欧洲华文,http://vvlive.eztv.vip/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39 
 EZTV-2 欧洲华文,http://vvlive.eztv.vip/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
 
-经典再现,http://183.222.72.116:6868/rtp/239.10.0.130:5140
 重温经典频道,http://43.141.130.70/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 重温经典频道,http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
+经典再现,http://183.222.72.116:6868/rtp/239.10.0.130:5140
+
 
